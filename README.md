@@ -1,0 +1,1 @@
+import base64; base64.b64encode(b'# Meal Planner AI\n\nA React application for meal planning with AI-generated suggestions.\n\n## Features\n\n- User authentication\n- Cuisine selection\n- Dietary preferences\n- AI-generated meal suggestions\n- Ingredient lists').decode('utf-8')
